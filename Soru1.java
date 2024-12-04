@@ -1,3 +1,5 @@
+//1)	1 ile 500 arasındaki tam sayılardan tek sayıların toplamı ile çift sayıların toplamının farkı  negatif mi, pozitif mi olduğunu bulan programın java kodunu yazınız (Döngü Kullanarak) ?         
+
 public class NumberDifference {
     public static void main(String[] args) {
         int oddSum = 0; // Tek sayıların toplamı
