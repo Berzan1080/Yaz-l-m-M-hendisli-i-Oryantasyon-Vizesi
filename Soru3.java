@@ -1,3 +1,6 @@
+//3)	Klavyeden girilen bir sayının negatif, pozitif veya 0 olup olmadığını bulan programın java kodunu yazınız  ?
+
+
 import java.util.Scanner; // Kullanıcıdan giriş almak için Scanner sınıfı
 
 public class NumberCheck {
