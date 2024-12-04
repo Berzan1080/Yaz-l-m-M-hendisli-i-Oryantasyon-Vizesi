@@ -1,3 +1,6 @@
+//5)	Klavyeden girilen ilk hızlı bir top yatayla bir alfa açısı yapıyor . Topun verilen bilgilerle maksimum menzilini hesaplayan programın java  kodunu yazınız ? (xmenzil = v0xtu = v0cosθtu)
+
+
 import java.util.Scanner;
 
 public class ProjectileRange {
