@@ -1,3 +1,5 @@
+//2)	1'den 500'e kadar olan tamsayıların toplamını bulan programın java kodunu yazınız  ?
+
 public class SumOfNumbers {
     public static void main(String[] args) {
         int n = 500; // Son sayı
